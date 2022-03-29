@@ -11,10 +11,14 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 * HTML
 * CSS
 
-
 ## Image
+
 ![Calendar App!](/Screen%20Shot%202022-03-29%20at%2011.57.30.png);
 
 ## Link
 
+https://bems2588.github.io/calendar-app/
+
 ## Contribution
+
+Made by Bruno Marcenaro
