@@ -13,7 +13,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## Image
 
-![Calendar App!](/Screen%20Shot%202022-03-29%20at%2011.57.30.png);
+![Calendar App!](/Screen%20Shot%202022-03-29%20at%2011.57.30.png)
 
 ## Link
 
