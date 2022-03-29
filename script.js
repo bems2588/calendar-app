@@ -1,6 +1,6 @@
 
 const currentDay = document.getElementById("currentDay");
-currentDay.innerHTML = moment().format("dddd MMM Do YY");
+currentDay.innerHTML = moment().format("dddd MMM Do YY LT");
 
 const saveBtn = document.querySelectorAll(".saveBtn");
 
