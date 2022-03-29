@@ -4,6 +4,14 @@ currentDay.innerHTML = moment().format("dddd MMM Do YY");
 
 const saveBtn = document.querySelectorAll(".saveBtn");
 
+
+// save description
+$(".saveBtn").on("click", function () {
+  var saveDescription = $(this).siblings(".description").val().trim();
+  localStorage.setItem($(this).siblings(".hour").attr("id"), saveDescription);
+});
+
+
 var currentHour = moment().format('HH');
 
 $(".hour").each(function () {
